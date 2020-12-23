@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :green_heart: Spring Boot Example
+* [Spring Boot Spring MVC CRUD with Hibernate MySQL example](https://github.com/dsakda/Spring-Boot-SpringMVC-CRUD-Hibernate-MySQL-example)
 * [Spring Boot file upload and download example](https://github.com/dsakda/Spring-Boot-File-Upload-And-Download-example)
 ### :green_heart: Workshop
