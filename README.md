@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### :green_heart: Spring Boot Example
+* [Spring Boot CRUD RESTfulAPI with Hibernate, MySQL example](https://github.com/dsakda/Spring-Boot-CRUD-RESTfulAPI-Hibernate-MySQL-example)
 * [Spring Boot CRUD web application with Spring MVC, Hibernate, MySQL example](https://github.com/dsakda/Spring-Boot-CRUD-SpringMVC-Hibernate-MySQL-example)
 * [Spring Boot Paging and Sorting example](https://github.com/dsakda/Spring-Boot-Spring-Data-JPA-Paging-And-Sorting-example)
 * [Spring Boot file upload and download example](https://github.com/dsakda/Spring-Boot-File-Upload-And-Download-example)
