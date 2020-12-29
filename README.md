@@ -1,5 +1,5 @@
-## :smile_cat: Hi there :smile_cat:
-## My GitHub สำหรับเก็บรวบรวมตัวอย่างการเขียน code ของ Spring Boot ที่ได้ฝึกฝน เรียนรู้ มาครับ
+## :smile_cat: My GitHub :smile_cat:
+## สำหรับเก็บรวบรวมตัวอย่างการเขียน code ของ Spring Boot ที่ได้ฝึกฝน เรียนรู้ มาครับ
 <!--
 **dsakda/dsakda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
