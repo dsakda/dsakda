@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Spring Security Example
 * [Spring Security Authentication example](https://github.com/dsakda/spring-security-authentication-example)
+* [Spring Security Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
 
 ### Spring Boot Example
 * [Spring Boot CRUD RESTfulAPI Validation example](https://github.com/dsakda/spring-boot-restfulapi-validation-example)
