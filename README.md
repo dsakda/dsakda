@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 * [Spring Boot Paging and Sorting example](https://github.com/dsakda/spring-boot-paging-and-sorting-example)
 * [Spring Boot file upload and download example](https://github.com/dsakda/spring-boot-file-upload-and-download-example)
 * [Spring Boot Spring Data JDBC example](https://github.com/dsakda/spring-boot-crud-jdbc-example)
-* [Spring Boot Send Email example](https://github.com/dsakda/spring-boot-send-email-example)
+* [Spring Boot send email with thymleaf template example](https://github.com/dsakda/spring-boot-send-email-example)
 
 ### Spring Boot + Swagger 2
 * [Swagger 2 API Documentation example](https://github.com/dsakda/swagger2-api-documentation-example)
