@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 ### Spring Boot + Swagger 2
 * [Swagger 2 API Documentation example](https://github.com/dsakda/swagger2-api-documentation-example)
 
+### Spring Data JPA/Hibernate
+* [One to One example](https://github.com/dsakda/spring-data-jpa-hibernate-one-to-one-example)
+
