@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Spring Security Example
-* [Spring Security Authentication example](https://github.com/dsakda/spring-security-authentication-example)
-* [Spring Security Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
+* [Jwt + Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
+* [Basic Authentication example](https://github.com/dsakda/spring-security-authentication-example)
 
 ### Spring Boot
 * [Spring Boot send email with thymleaf template example](https://github.com/dsakda/spring-boot-send-email-with-thymleaf-template-example)
