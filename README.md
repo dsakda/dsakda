@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Spring Security Example
-* [Jwt + Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
+* [JWT + Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
 * [Basic Authentication example](https://github.com/dsakda/spring-security-authentication-example)
 
 ### Spring Boot
