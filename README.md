@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 * [JWT + Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
 * [Basic Authentication example](https://github.com/dsakda/spring-security-authentication-example)
 
-### Spring Boot
-* [Spring Boot send email with thymleaf template example](https://github.com/dsakda/spring-boot-send-email-with-thymleaf-template-example)
-* [Spring Boot Paging and Sorting example](https://github.com/dsakda/spring-boot-paging-and-sorting-example)
-* [Spring Boot file upload and download example](https://github.com/dsakda/spring-boot-file-upload-and-download-example)
-* [Spring Boot CRUD RESTfulAPI Validation and ExceptionHandler example](https://github.com/dsakda/spring-boot-restfulapi-validation-example)
-* [Spring Boot CRUD web application with Spring MVC example](https://github.com/dsakda/Spring-Boot-crud-springmvc-example)
-* [Spring Boot Spring Data JDBC example](https://github.com/dsakda/spring-boot-crud-jdbc-example)
+### Spring Boot Example
+* [Send email with thymleaf template example](https://github.com/dsakda/spring-boot-send-email-with-thymleaf-template-example)
+* [Paging and Sorting example](https://github.com/dsakda/spring-boot-paging-and-sorting-example)
+* [File upload and download example](https://github.com/dsakda/spring-boot-file-upload-and-download-example)
+* [CRUD RESTfulAPI Validation and ExceptionHandler example](https://github.com/dsakda/spring-boot-restfulapi-validation-example)
+* [CRUD web application with Spring MVC example](https://github.com/dsakda/Spring-Boot-crud-springmvc-example)
+* [Spring Data JDBC example](https://github.com/dsakda/spring-boot-crud-jdbc-example)
 * [Swagger 2 API Documentation example](https://github.com/dsakda/swagger2-api-documentation-example)
 <!--
 ### Spring Data JPA/Hibernate
