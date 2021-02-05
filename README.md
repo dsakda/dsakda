@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Spring Security Example
-* [JWT + Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
-* [Basic Authentication example](https://github.com/dsakda/spring-security-authentication-example)
 
 ### Spring Boot Example
+* [JWT + Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
+* [Basic Authentication example](https://github.com/dsakda/spring-security-authentication-example)
 * [CRUD RESTful API with MongoDB](https://github.com/dsakda/spring-boot-crud-restfulapi-mongodb)
 * [Send email with thymleaf template example](https://github.com/dsakda/spring-boot-send-email-with-thymleaf-template-example)
 * [Paging and Sorting example](https://github.com/dsakda/spring-boot-paging-and-sorting-example)
