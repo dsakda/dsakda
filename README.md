@@ -1,5 +1,4 @@
 ## :smile_cat: My GitHub :smile_cat:
-## เก็บรวบรวมตัวอย่างการเขียน code ของ Spring Boot
 <!--
 **dsakda/dsakda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
