@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Node.js Example
+### Node.js
 * [RESTful API with express.js](https://github.com/dsakda/node.js-crud-restfulapi-express.js-mongodb)
-### Spring Boot Example
+### Spring Boot
 * [JWT + Role-based Authorization example](https://github.com/dsakda/spring-security-role-bases-example)
 * [Basic Authentication example](https://github.com/dsakda/spring-security-authentication-example)
 * [CRUD RESTful API with MongoDB](https://github.com/dsakda/spring-boot-crud-restfulapi-mongodb)
