@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--
 ### Node.js
 * [RESTful API with express.js](https://github.com/dsakda/node.js-crud-restfulapi-express.js-mongodb)
 ### Spring Boot
@@ -26,6 +27,7 @@ Here are some ideas to get you started:
 * [CRUD web application with Spring MVC example](https://github.com/dsakda/Spring-Boot-crud-springmvc-example)
 * [Spring Data JDBC example](https://github.com/dsakda/spring-boot-crud-jdbc-example)
 * [Swagger 2 API Documentation example](https://github.com/dsakda/swagger2-api-documentation-example)
+* -->
 <!--
 ### Spring Data JPA/Hibernate
 * [One to One example](https://github.com/dsakda/spring-data-jpa-hibernate-one-to-one-example)
